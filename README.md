@@ -1,8 +1,87 @@
-# House-Price-Prediction-Project
+# House Price Prediction Project
 
-Predicting house prices using Linear Regression and Gradient Boosting Regressor
+A machine learning project that predicts house prices using multiple regression models including Linear Regression and Gradient Boosting Regressor.
 
-The tutorial and write up for the code can be found here 
-https://medium.com/towards-data-science/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f
+## Overview
 
-Thank you
+This project implements a house price prediction system using machine learning algorithms. It analyzes various features of houses such as square footage, number of bedrooms, bathrooms, and location to predict their market value.
+
+## Features
+
+- Data preprocessing and cleaning
+- Feature engineering
+- Multiple regression models:
+  - Linear Regression
+  - Gradient Boosting Regressor
+- Model evaluation and comparison
+- Interactive Jupyter notebooks for analysis
+
+## Dataset
+
+The project uses two datasets:
+- `kc_house_data.csv`: King County house sales dataset
+- `Housing.csv`: Additional housing dataset for model validation
+
+## Requirements
+
+- Python 3.x
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- jupyter
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/aryan21904/House-Price-Prediction-Project.git
+cd House-Price-Prediction-Project
+```
+
+2. Install required packages:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+1. Open the Jupyter notebooks:
+   - `house_price_prediction.ipynb`: Main analysis notebook
+   - `housesales.ipynb`: Additional analysis and visualization
+
+2. Run the cells in sequence to:
+   - Load and preprocess the data
+   - Train the models
+   - Evaluate predictions
+   - Visualize results
+
+## Model Performance
+
+The project compares the performance of different regression models:
+- Linear Regression
+- Gradient Boosting Regressor
+
+Metrics used for evaluation:
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R-squared Score
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- Original tutorial and write-up: [Create a Model to Predict House Prices Using Python](https://medium.com/towards-data-science/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f)
+- King County House Sales dataset
+- Contributors and maintainers
+
+## Contact
+
+For questions and feedback, please open an issue in the GitHub repository.
