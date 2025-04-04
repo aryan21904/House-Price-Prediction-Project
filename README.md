@@ -1,6 +1,8 @@
 # House Price Prediction Project
 
-A machine learning project that predicts house prices using multiple regression models including Linear Regression and Gradient Boosting Regressor.
+> A machine learning project that predicts house prices using multiple regression models. The project analyzes house features like square footage, bedrooms, bathrooms, and location to predict market values using Linear Regression and Gradient Boosting algorithms.
+
+🌐 **Live Demo**: [View Project](https://aryan21904.github.io/House-Price-Prediction-Project/)
 
 ## Overview
 
