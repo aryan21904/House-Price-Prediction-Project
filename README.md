@@ -1,4 +1,5 @@
-# house-price-prediction
+# House-Price-Prediction-Project
+
 Predicting house prices using Linear Regression and Gradient Boosting Regressor
 
 The tutorial and write up for the code can be found here 
