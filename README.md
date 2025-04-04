@@ -74,16 +74,8 @@ Metrics used for evaluation:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Original tutorial and write-up: [Create a Model to Predict House Prices Using Python](https://medium.com/towards-data-science/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f)
 - King County House Sales dataset
 - Contributors and maintainers
-
-## Contact
-
-For questions and feedback, please open an issue in the GitHub repository.
